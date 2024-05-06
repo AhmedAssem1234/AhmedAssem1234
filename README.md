@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedAssem1234
 - 👀 I’m interested in Webdesigning
-- 🌱 I’m currently learning Css
-- 💞️ I’m looking to collaborate on HTML
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Css ,HTML and javascript
 - 📫 How to reach me ahmedassem1234@gmail.com
 
 <!---
